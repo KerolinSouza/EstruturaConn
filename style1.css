@@ -1,0 +1,20 @@
+img{
+    width: 500px;
+    height: 500px;
+    margin-left: 40%;
+   box-shadow: rgb(17, 16, 16) 40px 30px;
+}
+
+body{
+    background-color: brown;
+}
+
+h1{
+    text-align: center;
+ background-color:whitesmoke;
+    font-size: 200%;
+    font-style: oblique;
+    margin-right: 10%;
+    margin-left: 30%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

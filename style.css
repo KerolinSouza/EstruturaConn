@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://i.ytimg.com/vi/erJIA4hq_WY/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGUgWyhPMA8=&rs=AOn4CLAimyAHpSM2vfSwubQvQiMvJu9Xug);
+}
+
+h1{
+ text-align: center;
+ background-color:whitesmoke;
+    font-size: 200%;
+    font-style: oblique;
+    margin-right: 20%;
+    margin-left: 30%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+p{
+    text-align: center;
+    background-color:wheat;
+    font-size: 200%;
+    font-style: oblique;
+    margin-right: 20%;
+    margin-left: 30%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#idadeInput{
+    margin-left: 50%;
+    background-color: wheat;
+}
+
+button{
+   background-color: whitesmoke;
+}
